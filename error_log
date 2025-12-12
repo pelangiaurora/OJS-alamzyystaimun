@@ -1,0 +1,10 @@
+[19-Sep-2025 17:57:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function import() in /home/staimun/journal.staimun.ac.id/plugins/themes/default/DefaultThemePlugin.inc.php:16
+Stack trace:
+#0 /home/staimun/journal.staimun.ac.id/plugins/themes/default/index.php(19): require_once()
+#1 {main}
+  thrown in /home/staimun/journal.staimun.ac.id/plugins/themes/default/DefaultThemePlugin.inc.php on line 16
+[19-Sep-2025 17:57:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function import() in /home/staimun/journal.staimun.ac.id/plugins/themes/default/DefaultThemePlugin.inc.php:16
+Stack trace:
+#0 /home/staimun/journal.staimun.ac.id/plugins/themes/default/index.php(19): require_once()
+#1 {main}
+  thrown in /home/staimun/journal.staimun.ac.id/plugins/themes/default/DefaultThemePlugin.inc.php on line 16
